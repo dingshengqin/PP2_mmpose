@@ -138,3 +138,5 @@ docs/**/modelzoo.md
 projects/just_dance/configs/_base_
 
 vis_results*
+
+cuda_11.8.0_520.61.05_linux.run

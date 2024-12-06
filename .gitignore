@@ -23,3 +23,5 @@ mmdeploy/mmdeploy_models
 mmdeploy/mmdeploy_models/
 
 mmdetection_3.0.0
+mmdetection_3.0.0/
+mmdetection_3.0.0/*

@@ -173,3 +173,6 @@ demo/csharp/*/Properties
 mmdeploy_models/*
 mmdeploy_models
 mmdeploy_models/
+
+mmdeploy/ncnn-20220420
+mmdeploy/ncnn-20220420/
