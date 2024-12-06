@@ -1,0 +1,25 @@
+
+work_dirs
+outputs
+mmpose-ui
+mmdetection_3.0.0/
+# data
+.ipynb_checkpoints
+__pycache__
+rtmdet2onnx
+rtmpose2onnx
+【J*
+【H2】MMDeploy模型部署-Pytorch转ncnn.ipynb\
+【H4*
+【H5*
+download*
+filter*
+训练集*
+*Identifier
+data
+
+mmdeploy/mmdeploy_models/*
+mmdeploy/mmdeploy_models
+mmdeploy/mmdeploy_models/
+
+mmdetection_3.0.0
